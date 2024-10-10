@@ -1,2 +1,3 @@
 # Fivem-Cheat-Source-code-needs-fix-
-just a shitty paste from rz free
+i didnt test it but im sure it compiles at least
+
